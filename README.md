@@ -1,6 +1,5 @@
 # League_of_Legends_EDA
 ### Exploration of League of Legends game data from Kaggle
+### WIP
 
-Initial upload for an exploration of this dataset.
-
-Available from Kaggle here: https://www.kaggle.com/chuckephron/leagueoflegends
+Dataset available from Kaggle here: https://www.kaggle.com/chuckephron/leagueoflegends
